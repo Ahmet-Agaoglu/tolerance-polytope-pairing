@@ -1,0 +1,65 @@
+{
+  "radius_um": 2.0,
+  "polygon_sides": 256,
+  "models": [
+    "Wide centered",
+    "Narrow centered",
+    "Narrow shifted"
+  ],
+  "means_mm_mm_rad": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.004,
+      0.0,
+      0.0
+    ]
+  ],
+  "sigmas_mm_mm_rad": [
+    [
+      0.006,
+      0.006,
+      2.5e-05
+    ],
+    [
+      0.0015,
+      0.0015,
+      2.5e-05
+    ],
+    [
+      0.0015,
+      0.0015,
+      2.5e-05
+    ]
+  ],
+  "baseline_rtol": 1e-05,
+  "strict_rtol": 1e-08,
+  "scale_sizes": [
+    25,
+    50,
+    100
+  ],
+  "scale_seed": 20260908,
+  "workers": 12,
+  "part_settings": {
+    "n_contacts": 5,
+    "pitch_radius_mm": 200.0,
+    "pin_mean_mm": 5.992,
+    "pin_std_mm": 0.0013,
+    "hole_mean_mm": 6.006,
+    "hole_std_mm": 0.002,
+    "location_std_mm": 0.0033
+  },
+  "python": "C:\\Users\\ahmet\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+  "python_version": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel"
+}

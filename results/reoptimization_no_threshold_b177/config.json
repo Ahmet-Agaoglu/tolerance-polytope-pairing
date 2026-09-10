@@ -1,0 +1,6 @@
+{
+  "source": "G:\\My Drive\\Research\\Toleranca Polytope\\Further Exploitation of Tolerance Polytopes for Optimal Part Grouping under Functional Conditions\\results\\convergence_five_n50_seed20260907",
+  "batches": 177,
+  "objective": "maximize sum(p_ij*z_ij)",
+  "selection": "full-dimensional P and p_ij>0; no positive p_min"
+}

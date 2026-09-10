@@ -1,0 +1,31 @@
+{
+  "source": "G:\\My Drive\\Research\\Toleranca Polytope\\Further Exploitation of Tolerance Polytopes for Optimal Part Grouping under Functional Conditions\\results\\convergence_five_n50_seed20260907",
+  "master_seed": 20260907,
+  "base_n": 50,
+  "max_n": 80,
+  "newly_computed_entries": 3900,
+  "target_output": 50,
+  "radius_um": 2.0,
+  "model": "Wide centered",
+  "mean_mm_mm_rad": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "sigma_mm_mm_rad": [
+    0.006,
+    0.006,
+    2.5e-05
+  ],
+  "workers": 12,
+  "part_settings": {
+    "n_contacts": 5,
+    "pitch_radius_mm": 200.0,
+    "pin_mean_mm": 5.992,
+    "pin_std_mm": 0.0013,
+    "hole_mean_mm": 6.006,
+    "hole_std_mm": 0.002,
+    "location_std_mm": 0.0033
+  },
+  "assembly_outcomes_assumed_independent": true
+}

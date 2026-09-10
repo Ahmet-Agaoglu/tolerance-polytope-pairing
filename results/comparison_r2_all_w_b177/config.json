@@ -1,0 +1,8 @@
+{
+  "source_probabilities": "G:\\My Drive\\Research\\Toleranca Polytope\\Further Exploitation of Tolerance Polytopes for Optimal Part Grouping under Functional Conditions\\results\\convergence_five_n50_seed20260907",
+  "oracle_decisions": "G:\\My Drive\\Research\\Toleranca Polytope\\Further Exploitation of Tolerance Polytopes for Optimal Part Grouping under Functional Conditions\\results\\reoptimization_no_threshold_b177\\batch_results.json",
+  "uniform_decisions": "G:\\My Drive\\Research\\Toleranca Polytope\\Further Exploitation of Tolerance Polytopes for Optimal Part Grouping under Functional Conditions\\results\\comparison_r2_wide_b177",
+  "batches": 177,
+  "radius_um": 2.0,
+  "positive_p_min": null
+}

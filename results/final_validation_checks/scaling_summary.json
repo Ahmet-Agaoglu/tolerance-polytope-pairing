@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "n": 25,
+      "candidate_pairs": 625,
+      "workers": 12,
+      "probability_seconds": 36.62031840000418,
+      "matching_seconds": 0.0002992999798152596,
+      "total_seconds": 36.620617699983995,
+      "milliseconds_per_pair": 58.59250944000669,
+      "summed_worker_seconds": 330.202736700041,
+      "model_results": [
+        {
+          "model": "Wide centered",
+          "N": 25,
+          "G": 20.183663736242455
+        },
+        {
+          "model": "Narrow centered",
+          "N": 25,
+          "G": 22.78674423433516
+        },
+        {
+          "model": "Narrow shifted",
+          "N": 24,
+          "G": 21.974509898417224
+        }
+      ]
+    },
+    {
+      "n": 50,
+      "candidate_pairs": 2500,
+      "workers": 12,
+      "probability_seconds": 121.51825500000268,
+      "matching_seconds": 0.000454399996669963,
+      "total_seconds": 121.51870939999935,
+      "milliseconds_per_pair": 48.60730200000107,
+      "summed_worker_seconds": 1291.4639660000976,
+      "model_results": [
+        {
+          "model": "Wide centered",
+          "N": 50,
+          "G": 42.461501611883605
+        },
+        {
+          "model": "Narrow centered",
+          "N": 50,
+          "G": 46.31779370700599
+        },
+        {
+          "model": "Narrow shifted",
+          "N": 50,
+          "G": 46.69399703729006
+        }
+      ]
+    },
+    {
+      "n": 100,
+      "candidate_pairs": 10000,
+      "workers": 12,
+      "probability_seconds": 509.3483663999941,
+      "matching_seconds": 0.0020392999867908657,
+      "total_seconds": 509.3504056999809,
+      "milliseconds_per_pair": 50.93483663999941,
+      "summed_worker_seconds": 5672.414628099912,
+      "model_results": [
+        {
+          "model": "Wide centered",
+          "N": 99,
+          "G": 93.43483810831128
+        },
+        {
+          "model": "Narrow centered",
+          "N": 100,
+          "G": 96.7958154548693
+        },
+        {
+          "model": "Narrow shifted",
+          "N": 99,
+          "G": 96.80304612832046
+        }
+      ]
+    }
+  ]
+}

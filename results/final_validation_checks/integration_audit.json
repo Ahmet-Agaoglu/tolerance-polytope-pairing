@@ -1,0 +1,176 @@
+{
+  "batch": 0,
+  "radius_um": 2.0,
+  "polygon_sides": 256,
+  "baseline_rtol": 1e-05,
+  "strict_rtol": 1e-08,
+  "selection": "Nearest nontrivial pair to p=0.1, 0.5, and 0.9 for each model",
+  "checked_probabilities": 9,
+  "max_absolute_change": 1.3577588131585827e-07,
+  "mean_absolute_change": 5.2035845468953767e-08,
+  "records": [
+    {
+      "model": "Wide centered",
+      "target_probability": 0.1,
+      "pair_zero_based": [
+        13,
+        0
+      ],
+      "saved_probability": 0.09986954641980071,
+      "baseline_probability": 0.09986954355150052,
+      "strict_probability": 0.09986954566397702,
+      "absolute_change": 2.1124764992830336e-09,
+      "baseline_numerator_error_estimate": 7.956128156742316e-18,
+      "baseline_denominator_error_estimate": 2.0277822279449796e-16,
+      "baseline_subdivisions": 3,
+      "strict_numerator_error_estimate": 2.2928400896125203e-20,
+      "strict_denominator_error_estimate": 2.318510822364309e-19,
+      "strict_subdivisions": 6369
+    },
+    {
+      "model": "Wide centered",
+      "target_probability": 0.5,
+      "pair_zero_based": [
+        6,
+        11
+      ],
+      "saved_probability": 0.5000277434155972,
+      "baseline_probability": 0.5000276996158949,
+      "strict_probability": 0.5000277235905035,
+      "absolute_change": 2.397460863168277e-08,
+      "baseline_numerator_error_estimate": 1.631009232300647e-15,
+      "baseline_denominator_error_estimate": 2.159147406085617e-15,
+      "baseline_subdivisions": 6,
+      "strict_numerator_error_estimate": 2.0512827781506354e-18,
+      "strict_denominator_error_estimate": 4.116972564071933e-18,
+      "strict_subdivisions": 53170
+    },
+    {
+      "model": "Wide centered",
+      "target_probability": 0.9,
+      "pair_zero_based": [
+        8,
+        26
+      ],
+      "saved_probability": 0.9026406537621249,
+      "baseline_probability": 0.9026406545921863,
+      "strict_probability": 0.9026406526785778,
+      "absolute_change": 1.913608493886443e-09,
+      "baseline_numerator_error_estimate": 1.188638156305092e-17,
+      "baseline_denominator_error_estimate": 1.2092404528607559e-17,
+      "baseline_subdivisions": 2,
+      "strict_numerator_error_estimate": 3.5528979218807937e-20,
+      "strict_denominator_error_estimate": 3.9224016101799053e-20,
+      "strict_subdivisions": 4133
+    },
+    {
+      "model": "Narrow centered",
+      "target_probability": 0.1,
+      "pair_zero_based": [
+        25,
+        33
+      ],
+      "saved_probability": 0.10015452600390119,
+      "baseline_probability": 0.10015452375915071,
+      "strict_probability": 0.10015452059555141,
+      "absolute_change": 3.1635992991940753e-09,
+      "baseline_numerator_error_estimate": 7.841851765414841e-18,
+      "baseline_denominator_error_estimate": 1.5277500904777865e-16,
+      "baseline_subdivisions": 27,
+      "strict_numerator_error_estimate": 1.4946753032590428e-20,
+      "strict_denominator_error_estimate": 1.5404292757830825e-19,
+      "strict_subdivisions": 112285
+    },
+    {
+      "model": "Narrow centered",
+      "target_probability": 0.5,
+      "pair_zero_based": [
+        42,
+        28
+      ],
+      "saved_probability": 0.5013932670572185,
+      "baseline_probability": 0.5013933546376804,
+      "strict_probability": 0.501393231729701,
+      "absolute_change": 1.2290797946068466e-07,
+      "baseline_numerator_error_estimate": 2.5606581707389397e-16,
+      "baseline_denominator_error_estimate": 3.846548936074711e-16,
+      "baseline_subdivisions": 12,
+      "strict_numerator_error_estimate": 3.191998047192574e-19,
+      "strict_denominator_error_estimate": 6.388329999810142e-19,
+      "strict_subdivisions": 73297
+    },
+    {
+      "model": "Narrow centered",
+      "target_probability": 0.9,
+      "pair_zero_based": [
+        3,
+        22
+      ],
+      "saved_probability": 0.8993320879038045,
+      "baseline_probability": 0.8993321361194287,
+      "strict_probability": 0.8993322718953101,
+      "absolute_change": 1.3577588131585827e-07,
+      "baseline_numerator_error_estimate": 3.901408171020775e-16,
+      "baseline_denominator_error_estimate": 7.500778216393551e-16,
+      "baseline_subdivisions": 15,
+      "strict_numerator_error_estimate": 7.638471705808962e-19,
+      "strict_denominator_error_estimate": 8.497581968481547e-19,
+      "strict_subdivisions": 61571
+    },
+    {
+      "model": "Narrow shifted",
+      "target_probability": 0.1,
+      "pair_zero_based": [
+        15,
+        13
+      ],
+      "saved_probability": 0.10006997624774656,
+      "baseline_probability": 0.10006995835527867,
+      "strict_probability": 0.10006999116813108,
+      "absolute_change": 3.2812852407415605e-08,
+      "baseline_numerator_error_estimate": 1.3340103405622747e-16,
+      "baseline_denominator_error_estimate": 1.2732996956929217e-15,
+      "baseline_subdivisions": 13,
+      "strict_numerator_error_estimate": 1.3837151296719637e-19,
+      "strict_denominator_error_estimate": 1.3838558933197767e-18,
+      "strict_subdivisions": 215811
+    },
+    {
+      "model": "Narrow shifted",
+      "target_probability": 0.5,
+      "pair_zero_based": [
+        31,
+        32
+      ],
+      "saved_probability": 0.5006038997025616,
+      "baseline_probability": 0.5006038208857849,
+      "strict_probability": 0.50060395196561,
+      "absolute_change": 1.310798251052958e-07,
+      "baseline_numerator_error_estimate": 4.454158052023396e-17,
+      "baseline_denominator_error_estimate": 9.13247864426369e-17,
+      "baseline_subdivisions": 37,
+      "strict_numerator_error_estimate": 4.635162137176265e-20,
+      "strict_denominator_error_estimate": 9.273264691906477e-20,
+      "strict_subdivisions": 324611
+    },
+    {
+      "model": "Narrow shifted",
+      "target_probability": 0.9,
+      "pair_zero_based": [
+        17,
+        28
+      ],
+      "saved_probability": 0.8986815940591569,
+      "baseline_probability": 0.8986816086362613,
+      "strict_probability": 0.8986815940544833,
+      "absolute_change": 1.458177800728322e-08,
+      "baseline_numerator_error_estimate": 1.3240922815457172e-17,
+      "baseline_denominator_error_estimate": 2.015961863302364e-17,
+      "baseline_subdivisions": 35,
+      "strict_numerator_error_estimate": 1.932169837855795e-20,
+      "strict_denominator_error_estimate": 2.149931165730821e-20,
+      "strict_subdivisions": 240572
+    }
+  ],
+  "interpretation": "This isolates integration tolerance at fixed M=256. Polygon resolution was validated separately by the completed M-versus-2M audit."
+}
